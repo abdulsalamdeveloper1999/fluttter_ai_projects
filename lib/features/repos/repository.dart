@@ -2,7 +2,7 @@ import 'dart:developer';
 import 'dart:typed_data';
 import 'package:dio/dio.dart';
 
-String apiKey = 'vk-yecRGANAPFbjyqaYdt0qSdU39SWHx6AhCWESgHDzzkYP7';
+String apiKey = 'apitokenhere';
 
 class PromptRepo {
   static Future<Uint8List?> generateImage(String prompt) async {
