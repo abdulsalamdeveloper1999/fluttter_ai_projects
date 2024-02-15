@@ -1,16 +1,25 @@
-# flutter_midjourney
+# Ai Projects Using Flutter 
 
-A new Flutter project.
+# Image Generative AI using Imagine Art API
 
-## Getting Started
+Welcome to my Image Generative AI project repository! This repository contains an application built with Flutter that utilizes the Imagine Art API to generate images based on user prompts. Below, you'll find details about the project structure and how to get started.
 
-This project is a starting point for a Flutter application.
+## About
 
-A few resources to get you started if this is your first Flutter project:
+This project showcases the integration of the Imagine Art API into a Flutter application to create an image generative AI. Users can input prompts, and the AI will generate an image based on those prompts, providing a visually stimulating and interactive experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1707982732](https://github.com/abdulsalamdeveloper1999/fluttter_ai_projects/assets/114761249/0a15013a-89cf-4044-89dc-e743a9bb3d58)
+
+
+
+## Contact
+
+If you have any questions or would like to get in touch with me, feel free to reach out:
+
+- Email: [abdulsalamdeveloper1999@gmail.com](mailto:abdulsalamdeveloper1999@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdul-salam-432b4a24b)
+- GitHub: [GitHub](https://github.com/abdulsalamdeveloper1999)
+
+Thank you for exploring my Image Generative AI project! I hope you find it intriguing and engaging.
