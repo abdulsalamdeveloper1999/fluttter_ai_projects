@@ -8,9 +8,11 @@ Welcome to my Image Generative AI project repository! This repository contains a
 
 This project showcases the integration of the Imagine Art API into a Flutter application to create an image generative AI. Users can input prompts, and the AI will generate an image based on those prompts, providing a visually stimulating and interactive experience.
 
-## Screenshot
+## Screensho
+![2 phone mockup new](https://github.com/abdulsalamdeveloper1999/fluttter_ai_projects/assets/114761249/0629a824-13e3-467f-acdc-89499caeac30)
+t
 
-![Screenshot_1707982732](https://github.com/abdulsalamdeveloper1999/fluttter_ai_projects/assets/114761249/0a15013a-89cf-4044-89dc-e743a9bb3d58)
+
 
 
 
